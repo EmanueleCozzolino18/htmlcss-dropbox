@@ -118,6 +118,24 @@ header {
     background-color: gray;
 }
 
+.count-cont {
+    width: 100%;
+    margin: 0 auto;
+    background-color: yellow;
+}
+
+.count-box {
+    width: 70%;
+    height: 80px;
+    margin: 0 auto;
+    background-color: red;
+}
+
+.count-title {
+    width: 100%;
+    height: 80px;
+    background-color: darkcyan;
+}
 
 /* CLASSI UTILIY */
 

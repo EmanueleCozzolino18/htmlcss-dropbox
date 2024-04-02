@@ -77,7 +77,6 @@ header {
 
 .plan-col33 {
     width: calc(100% / 3);
-    height: 540px;
     background-color: blue;
 }
 
@@ -100,10 +99,34 @@ header {
     background-color: yellowgreen;
 }
 
+.buisness-cont {
+    width: 100%;
+    margin: 0 auto;
+    background-color: purple;
+}
+
+.buisness-box {
+    width: 70%;
+    height: 605px;
+    margin: 0 auto;
+    background-color: green;
+}
+
+.buisness-title {
+    width: 100%;
+    height: 80px;
+    background-color: gray;
+}
+
+
 /* CLASSI UTILIY */
 
 .row {
     display: flex;
+}
+
+.wrap {
+    flex-wrap: wrap;
 }
 
 .s-bet {
@@ -116,4 +139,12 @@ header {
 
 .border {
     border: 2px solid black;
+}
+
+.plan-h {
+    height: 540px;
+}
+
+.b-h {
+    height: 300px;
 }

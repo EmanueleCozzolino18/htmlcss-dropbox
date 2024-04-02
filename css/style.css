@@ -87,6 +87,19 @@ header {
     background-color: red;
 }
 
+.info-cont {
+    width: 100%;
+    margin: 0 auto;
+    background-color: yellow;
+}
+
+.info-box {
+    width: 70%;
+    height: 400px;
+    margin: 0 auto;
+    background-color: yellowgreen;
+}
+
 /* CLASSI UTILIY */
 
 .row {

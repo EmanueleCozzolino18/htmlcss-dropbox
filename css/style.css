@@ -18,34 +18,25 @@ header {
 .sub-head-cont {
     width: 100%;
     margin: 0 auto;
-    background-color: lightgreen;
-
 }
 
 .sub-head-main {
     width: 70%;
-    height: 480px;
     margin: 0 auto;
-    background-color: blue;
+    padding-top: 80px;
 }
 
 .sub-head-title {
     width: 100%;
-    height: 80px;
-    background-color: brown;
 }
 
 .col-25 {
-    width: 25%;
-    height: 400px;
+    width: 30%;
     margin: 0 auto;
-    background-color: cadetblue;
 }
 
 .col-75 {
-    width: 75%;
-    height: 400px;
-    background-color: blueviolet;
+    width: 70%;
 }
 
 .plan-cont {
@@ -218,17 +209,57 @@ li,
     vertical-align: middle;
     line-height: 55px;
     padding: 0px 10px;
-    font-family: sans-serif;
     color: #707070;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-.text-left {
+.text-right {
     text-align: right;
 }
 
+.text-center {
+    text-align: center;
+}
+
+.text-left {
+    text-align: left;
+}
+
 .start-btn {
-    background-color: #1B72FF;
     padding: 0px 7px;
+}
+
+.main-title {
+    font-size: 80px;
+}
+
+.sans {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.desc-font {
+    font-size: 18px;
+}
+
+.arrow-font {
+    font-size: 60px;
+}
+
+.trial-btn {
+    height: 50px;
+    width: 230px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.bg-cyan {
+    background-color: #B4D0E7;
+}
+
+.bg-btn {
+    background-color: #1B72FF;
     color: white;
 }
 
@@ -258,4 +289,28 @@ li,
 
 .quest-h {
     height: 450px;
+}
+
+.padding-15 {
+    padding: 15px 15px;
+}
+
+.padding-20 {
+    padding: 20px 0px;
+}
+
+.jumbo-relative {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    margin-top: 70px;
+}
+
+.padding-65 {
+    padding-top: 65px;
+    padding-bottom: 30px;
+}
+
+.padding-top {
+    padding-top: 164px;
 }

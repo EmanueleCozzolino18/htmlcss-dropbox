@@ -24,6 +24,8 @@ header {
     width: 70%;
     margin: 0 auto;
     padding-top: 80px;
+    position: relative;
+    top: 80px;
 }
 
 .sub-head-title {
@@ -39,11 +41,9 @@ header {
     width: 70%;
 }
 
-.plan-cont {
+.white-cont {
     width: 100%;
     margin: 0 auto;
-    background-color: peru;
-
 }
 
 .plan-head-cont {
@@ -70,11 +70,6 @@ header {
     background-color: red;
 }
 
-.info-cont {
-    width: 100%;
-    margin: 0 auto;
-    background-color: yellow;
-}
 
 .info-box {
     width: 70%;
@@ -102,12 +97,6 @@ header {
     background-color: gray;
 }
 
-.count-cont {
-    width: 100%;
-    margin: 0 auto;
-    background-color: yellow;
-}
-
 .count-box {
     width: 70%;
     height: 80px;
@@ -119,13 +108,6 @@ header {
     width: 100%;
     height: 80px;
     background-color: darkcyan;
-}
-
-
-.partner-cont {
-    width: 100%;
-    margin: 0 auto;
-    background-color: gray;
 }
 
 .partner-box {
@@ -146,23 +128,11 @@ header {
     background-color: green;
 }
 
-.call-act-cont {
-    width: 100%;
-    margin: 0 auto;
-    background-color: yellow;
-}
-
 .call-act-box {
     width: 70%;
     height: 150px;
     margin: 0 auto;
     background-color: yellowgreen;
-}
-
-.quest-cont {
-    width: 100%;
-    margin: 0 auto;
-    background-color: red;
 }
 
 .quest-box {
@@ -300,9 +270,7 @@ li,
 }
 
 .jumbo-relative {
-    height: 100%;
     width: 100%;
-    position: relative;
     margin-top: 70px;
 }
 
@@ -312,5 +280,5 @@ li,
 }
 
 .padding-top {
-    padding-top: 164px;
+    padding-top: 90px;
 }

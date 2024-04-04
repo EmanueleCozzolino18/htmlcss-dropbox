@@ -41,6 +41,14 @@ header {
     width: 70%;
 }
 
+.col-60 {
+    width: 60%;
+}
+
+.col-40 {
+    width: 40%;
+}
+
 .white-cont {
     width: 100%;
     margin: 0 auto;
@@ -72,9 +80,7 @@ header {
 
 .info-box {
     width: 70%;
-    height: 400px;
     margin: 0 auto;
-    background-color: yellowgreen;
 }
 
 .buisness-cont {
@@ -206,6 +212,14 @@ li,
     font-size: 40px;
 }
 
+.part-title {
+    font-size: 25px;
+}
+
+.part-btn {
+    width: 40%;
+}
+
 .sans {
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -307,6 +321,11 @@ li,
     padding: 60px 0px;
 }
 
+.part-padding {
+    padding-left: 40px;
+    padding-top: 40px;
+}
+
 .block {
     display: block;
 }
@@ -321,4 +340,9 @@ li,
 
 .check-color {
     color: #1B72FF;
+}
+
+.partner {
+    height: 100%;
+    width: 100%;
 }

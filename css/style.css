@@ -83,24 +83,22 @@ header {
     margin: 0 auto;
 }
 
-.buisness-cont {
-    width: 100%;
-    margin: 0 auto;
-    background-color: purple;
-}
 
 .buisness-box {
     width: 70%;
     height: 605px;
     margin: 0 auto;
-    background-color: green;
+
 }
 
 .buisness-title {
     width: 100%;
-    height: 80px;
-    background-color: gray;
 }
+
+.buisness-service {
+    width: 100%;
+}
+
 
 .count-box {
     width: 70%;
@@ -269,6 +267,7 @@ li,
 
 .b-h {
     height: 300px;
+
 }
 
 .act-colh {
